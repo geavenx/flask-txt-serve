@@ -1,0 +1,9 @@
+[project]
+name = "simple-txt-http-serve"
+version = "0.1.0"
+description = "A flask server that serves .txt files."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.1.1",
+]
